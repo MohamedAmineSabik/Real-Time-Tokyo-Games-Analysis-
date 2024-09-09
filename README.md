@@ -85,5 +85,5 @@ python3 spark_streaming.py
 9- Access to `control center UI` monitor Topic health, Procuder and consumer performance, Offset, Cluster health: `localhost:9021`
 
 <p align="center">
-  <img src="imgs/COnfluent.png" alt="Wallpaper">
+  <img src="imgs/COnfluent .png" alt="Wallpaper">
 </p>
