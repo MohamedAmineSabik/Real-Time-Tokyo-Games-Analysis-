@@ -66,7 +66,7 @@ pip3 install -r requirements/requirements.txt
 Check containers in docker desktop:
 
 <p align="center">
-  <img src="images/DockerCompose.png" alt="Wallpaper">
+  <img src="imgs/DockerCompose.png" alt="Wallpaper">
 </p>
 
 
