@@ -79,11 +79,11 @@ python3 spark_streaming.py
 8- Access to airflow UI to monitor streaming process: `localhost:8080` with account: `admin`, password: `admin`
 
 <p align="center">
-  <img src="images/airflow.png" alt="Wallpaper">
+  <img src="imgs/airflow.png" alt="Wallpaper">
 </p>
 
 9- Access to `control center UI` monitor Topic health, Procuder and consumer performance, Offset, Cluster health: `localhost:9021`
 
 <p align="center">
-  <img src="images/control-center.png" alt="Wallpaper">
+  <img src="imgs/COnfluent.png" alt="Wallpaper">
 </p>
