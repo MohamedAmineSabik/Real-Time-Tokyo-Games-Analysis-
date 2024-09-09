@@ -57,24 +57,16 @@ source venv/bin/activate
 pip3 install -r requirements/requirements.txt
 ```
 
-5- Install Docker, Docker compose:
+5- Build docker:
 
 ```
-sudo ./installdocker.sh
-docker --version
-docker compose version
-```
-
-6- Build docker:
-
-```
-docker compose up -d
+ docker-compose -f docker-compose2.yaml  up 
 ```
 
 Check containers in docker desktop:
 
 <p align="center">
-  <img src="images/docker_desktop.png" alt="Wallpaper">
+  <img src="images/DockerCompose.png" alt="Wallpaper">
 </p>
 
 
